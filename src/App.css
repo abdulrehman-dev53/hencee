@@ -139,7 +139,7 @@
     display:flex; align-items:center; gap:10px;
   }
   .brand-logo{
-    height:36px; width:auto; object-fit:contain;
+    height:59px; width:auto; object-fit:contain;
   }
   .brand .mark{
     width:11px; height:11px; border-radius:50%;
