@@ -260,12 +260,14 @@ export default function App() {
 <div id="beam-track"></div>
 <div id="beam-glow"></div>
 
+
+
 <nav id="nav">
   <div className="brand">
     <img src={logo} alt="Logo" className="brand-logo" />
   </div>
+  <a href="#partner-login" className="nav-cta">Partners Login</a>
 </nav>
-
 <section className="hero" id="top">
   <div className="hero-spotlight" id="hero-spotlight"></div>
 
